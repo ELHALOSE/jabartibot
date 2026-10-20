@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+
+jabarti_llm.egg-info/
+
+
 # Distribution / packaging
 .Python
 build/
@@ -51,6 +55,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+output/
 
 # Translations
 *.mo
